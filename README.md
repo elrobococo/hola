@@ -47,15 +47,41 @@ Specializations: Management Information Systems and Legal Studies
 
 ## Certifications
 
+Google Project Management: by Google on Coursera. Certificate earned at February 20, 2024
+Applied Digital Literacy by The State University of New York on Coursera. Certificate earned at March 3, 2024
 
 ## Skills
-**Data Analysis and Reporting**: Power BI, Tableau, Qlik, Visual Basic, Numpy, Pandas, NumPy, Dash, Matplotlib, Microsoft Excel, Apple Numbers
 
-**Databases**: MySQL, MariaDB, Postgresql, Pinecone, Chroma
+Data Analysis and Reporting: Power BI, Tableau, Qlik, Visual Basic, Numpy, Pandas, NumPy, Dash, Matplotlib, Microsoft Excel, Apple Numbers
+Databases: MySQL, MariaDB, Postgresql, Pinecone, Chroma
+Development Environments and Tools: Docker, Langchain, Git, Poetry
+Financial Systems: Bloomberg Terminal, Bloomberg Core Terminal, Bloomberg AIM System, Bloomberg CMGR, Open BB Terminal
+Microsoft:Microsoft Office Suite,  Microsoft Azure, Microsoft Dynamics 365, Microsoft Nonprofit Manager
 
-**Development Environments and Tools**: Docker, Langchain, Git, Poetry
+## Board Experience
 
-**Financial Systems**: Bloomberg Terminal, Bloomberg Core Terminal, Bloomberg AIM System, Bloomberg CMGR, Open BB Terminal
+#### **Board Member** 
+Esperanza Academy Charter School Philadelphia, PA, 05/2022 - Present
+Actively participating in the governance of Esperanza Academy Charter School by providing strategic direction and oversight.
+Collaborating with fellow board members to set policies and make decisions that align with the school’s mission and vision.
+Regularly attending and contributing to board meetings, committee meetings, and school events.
+Reviewing and approving annual budgets to ensure financial sustainability and accountability.
+Engaging in fundraising activities to support the school’s programs and initiatives.
+Advocating for the school’s interests in the community and establishing relationships with key stakeholders.
+Continually monitoring the school’s performance and progress towards its goals.
+Ensuring compliance with state and federal regulations and charter school laws.
+Participating in the hiring and evaluation of the school’s leadership.
 
-**Microsoft**: Microsoft Azure, Microsoft Dynamics 365, Microsoft Nonprofit Manager
+#### **Board Member** 
+Internet Enterprise Council Philadelphia, PA, 01/2020 - Present
+Participating in the strategic planning and decision-making processes to guide the council’s mission and objectives.
+Collaborating with fellow board members to develop policies and initiatives that promote the growth and impact of emerging technology.
+Regularly attending board and committee meetings, contributing valuable insights and ideas.
+Reviewing and approving annual budgets, ensuring the council’s financial sustainability and accountability.
+Engaging in fundraising activities and seeking partnerships to support the council’s programs and initiatives.
+Advocating for the council’s interests in the community and establishing relationships with key stakeholders in the technology industry.
+Monitoring the council’s performance and progress towards its goals, suggesting improvements when necessary.
+Ensuring compliance with relevant regulations and laws.
+Participating in the hiring and evaluation of the council’s leadership and staff.
+
 
