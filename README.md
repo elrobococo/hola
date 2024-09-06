@@ -4,7 +4,7 @@ Narberth PA, 19072
 
 +1 (845) 418-5776
 
-LinkedIn: https://linkedin.com/in/essity/ 
+LinkedIn: https://linkedin.com/in/rc-212/ 
 
 Professional Portfolio: https://ricardocordero.com/
 
