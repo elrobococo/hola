@@ -2,15 +2,13 @@
 
 Narberth PA, 19072
 
-+1 (845) 418-5776
-
 LinkedIn: https://linkedin.com/in/rc-212/ 
 
 Professional Portfolio: https://ricardocordero.com/
 
 Github: https://github.com/elrobococo/
 
-Email: r@og2.co 
+Email: rcordero5440@gmail.com
 
 ## Summary
 Data Storyteller with more than a decade of experience in the financial industry including operations, analytics, and asset management. 
